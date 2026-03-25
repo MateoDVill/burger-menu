@@ -11,14 +11,3 @@ Burger Menu
 * **Diseño Mobile-First:** Se adapta suavemente a cualquier tamaño de pantalla.
 * **Fácil de Personalizar:** Clases de utilidad de Tailwind listas para modificar colores, transiciones y tamaños.
 * **Integración Directa:** Estructura modular lista para copiar y pegar en la carpeta `src/components/`.
-
-## 📁 Estructura del Componente
-
-Este menú se adapta a la siguiente arquitectura de proyecto:
-/src
-  ├── /components
-  │    └── Menu.astro
-  ├── /js
-  │    └── menu-toggle.js
-  └── /styles
-       └── global.css
